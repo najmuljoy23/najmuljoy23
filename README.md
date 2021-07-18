@@ -32,7 +32,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://about.me/najmul.joy23
 [twitter]: https://twitter.com/najmuljoy
 [youtube]: https://youtube.com/UCH6spTuW5HicL-gqzTZ84wA
 [instagram]: https://instagram.com/najmul_joy_
