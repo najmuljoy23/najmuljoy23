@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/NajmulJoy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm A Philonoist, A Marketing Guy, A Tech-enthusiast!
+## I'm A Philonoist, Marketing Guy, Tech-enthusiast!
 
 - 🔭 I am a BBA Graduate
 - 👯 Currently learning Python to satisfy my curiosity about Programming
